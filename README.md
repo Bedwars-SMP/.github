@@ -1,2 +1,2 @@
-# Bedwars-SMP
-Main styling repo.
+# Bedwars SMP
+SMP
