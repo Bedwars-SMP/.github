@@ -1,0 +1,2 @@
+# Bedwars SMP
+SMP
